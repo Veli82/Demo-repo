@@ -1,1 +1,2 @@
-this is a JavaScript File
+let coolVar = "a cool string";
+console.log("hey");
